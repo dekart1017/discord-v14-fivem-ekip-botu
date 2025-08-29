@@ -1,0 +1,18 @@
+{
+  "botOwners": [""],
+  "prefix": ["!"],
+  "guildID": "",
+  "voiceChannel": "",
+  "activity": "dekartx ❤️",
+  "sunucuAdi": "dekart",
+  "leaderBoard": "OtSıralamasınınMesajınKanalIDsi",
+  "topMessage": "OtSıralamasınınMesajID",
+  "StaffRole":["",""],
+  "ekipRole":"1395933351248003114",
+  "ServerURL":"server urlyi yazıcaksın buraya",
+  "otMiktar": 123,
+  "emojis": {
+    "onay": "✅",
+    "red": "❌"
+  }
+}
